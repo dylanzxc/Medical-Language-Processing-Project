@@ -1,5 +1,6 @@
 # ClINICAL BIG DATA RESEARCH
 Milestone Video:https://youtu.be/PpV9vfLcqlA
+
 In this project, we studied four questions in clinical researches, as described by following.
 ## Medical Name Entity Recognition
 Given a medical note, we want extract medical and disease entities. In this question, we make a model that takes a note string as input and tag each word as one of disease or chemical.
